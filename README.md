@@ -1,4 +1,4 @@
-<h1 align="center">🗄️ Superstore Sales Analysis | SQL (EDA)</h1>
+<h1 align="center">🛢️ Superstore Sales Analysis | SQL (EDA)</h1>
 
 <p align="center">
   Exploratory Data Analysis using SQL to uncover business insights from Superstore sales data
@@ -24,7 +24,7 @@ The goal is to extract business insights related to sales, customers, shipping, 
 <h2>🛠️ Tools Used</h2>
 
 <ul>
-  <li>🗄️ SQL Server</li>
+  <li>🛢️ SQL Server</li>
   <li>📜 SQL Queries (T-SQL)</li>
   <li>📁 Data stored in CSV format</li>
   <li>📊 Data Analysis (EDA techniques)</li>
